@@ -84,7 +84,7 @@ def adding_matz
       }
     }
   programmer_hash.merge(:yukihiro_matsumoto => {
-    :known_for => 
+    :known_for => "Ruby" 
   })
 end
 
